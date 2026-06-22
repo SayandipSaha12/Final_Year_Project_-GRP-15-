@@ -1,3 +1,12 @@
+## Project Description
+
+This repository contains the Final Year Project of Group 15: **Personalized Handwriting Generation and Verification Software**.
+
+The system allows users to create a personalized handwriting profile by providing handwritten samples of the letters A–Z. Using these samples, the software can generate digital text that closely replicates the user's handwriting style.
+
+In addition, the project includes a handwriting verification module that compares generated handwriting with another handwriting sample to determine the likelihood that both were written by the same person. This feature can help detect potential fraud, forgery, or handwriting imitation attempts.
+
+
 ## Prerequisites
 
 ### 1. Install Visual Studio Code (Recommended)
